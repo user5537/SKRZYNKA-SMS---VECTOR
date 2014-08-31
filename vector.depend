@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409494810 source:c:\users\xeon-21\desktop\vector\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

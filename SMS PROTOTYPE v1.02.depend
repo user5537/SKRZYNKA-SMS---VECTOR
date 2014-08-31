@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1409500570 source:c:\users\xeon-21\desktop\vector\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<random>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
